@@ -1,8 +1,8 @@
-# Lab 8 - *Name of App Here*
+# Lab 8 - *Tinder *
 
-**Name of your app** is a mock Tindr app featuring gestures and custom transitions
+**Tinder** is a mock Tindr app featuring gestures and custom transitions
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -13,7 +13,7 @@ The following **required** user stories are complete:
 - [ ] Card animates when user ends panning gesture (+2pt)
 - [ ] User can view profile - basic modal transition (+1pt)
 
-The following **stretch** user stories are implemented:
+The following **stretcHereh** user stories are implemented:
 
 - [ ] User can view profile - custom modal transition (+2pt)
 
@@ -26,7 +26,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/VIyJF7y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
